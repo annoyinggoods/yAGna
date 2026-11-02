@@ -1,0 +1,13 @@
+[package]
+name = "yagna-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+blake3 = { workspace = true }
+chrono = { workspace = true }
+globset = { workspace = true }
+nucleo = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = { workspace = true }

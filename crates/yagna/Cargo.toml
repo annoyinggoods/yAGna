@@ -1,0 +1,17 @@
+[package]
+name = "yagna"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+chrono = { workspace = true }
+clap = { workspace = true }
+directories = { workspace = true }
+gpui = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = { workspace = true }
+toml = { workspace = true }
+yagna-core = { path = "../yagna-core" }
+yagna-store = { path = "../yagna-store" }
+yagna-forge = { path = "../yagna-forge" }

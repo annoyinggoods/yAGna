@@ -1,0 +1,26 @@
+[
+  {
+    "login": "octocat",
+    "id": 1,
+    "html_url": "https://github.com/octocat",
+    "type": "User"
+  },
+  {
+    "login": "hubot",
+    "id": 2,
+    "html_url": "https://github.com/hubot",
+    "type": "User"
+  },
+  {
+    "login": "monalisa",
+    "id": 3,
+    "html_url": "https://github.com/monalisa",
+    "type": "User"
+  },
+  {
+    "login": "octocat",
+    "id": 1,
+    "html_url": "https://github.com/octocat",
+    "type": "User"
+  }
+]

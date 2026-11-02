@@ -1,0 +1,23 @@
+# The light-gray theme: pure grays on a light ground.
+#
+# The roles come in families and never share a fill: the window
+# ground, the cards, the panels, the status line, the notification
+# card and the tab strip each own their own surfaces.
+background = "#f2f2f2"
+surface = "#fbfbfb"
+surface_alt = "#e4e4e4"
+text = "#2b2b2b"
+text_muted = "#5c5c5c"
+accent = "#3a6ea5"
+border = "#d0d0d0"
+health_good = "#2c6b38"
+health_mid = "#7a5c12"
+health_low = "#94302c"
+language_bar = "#44637f"
+scrim = "#000000"
+notice_bg = "#e6edf6"
+notice_text = "#232a33"
+status_info = "#465468"
+status_error = "#8f3030"
+tab_active = "#e0e0e0"
+tab_inactive = "#fbfbfb"

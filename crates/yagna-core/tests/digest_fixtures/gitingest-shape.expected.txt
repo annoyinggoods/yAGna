@@ -1,0 +1,48 @@
+Repository: coderamp-labs/gitingest
+Files analyzed: 5
+
+Estimated tokens: ~117
+
+Directory structure:
+├── src
+│   └── gitingest
+│       ├── utils
+│       │   └── file_utils.py
+│       ├── __init__.py
+│       └── entrypoint.py
+├── pyproject.toml
+└── README.md
+
+================================================
+FILE: README.md
+================================================
+# Gitingest
+
+Turn any code repository into a simple text digest of its codebase.
+
+================================================
+FILE: pyproject.toml
+================================================
+[project]
+name = "gitingest"
+version = "0.1.0"
+
+================================================
+FILE: src/gitingest/__init__.py
+================================================
+"""Gitingest: turn a repository into a prompt."""
+
+================================================
+FILE: src/gitingest/entrypoint.py
+================================================
+def main():
+    """Run the ingestion."""
+    ingest()
+
+================================================
+FILE: src/gitingest/utils/file_utils.py
+================================================
+def read_file(path):
+    """Read one file's text."""
+    return path.read_text()
+

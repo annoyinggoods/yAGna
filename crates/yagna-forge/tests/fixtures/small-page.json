@@ -1,0 +1,326 @@
+{
+  "viewer": {
+    "starredRepositories": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "Y3Vyc29yOnYyOpK5MjAyNi0xMC0yNFQxNjozMzowNyswMTowMM4tTjVF"
+      },
+      "edges": [
+        {
+          "starredAt": "2026-10-26T20:07:57Z",
+          "node": {
+            "databaseId": 1320194494,
+            "owner": {
+              "login": "Nuu-maan"
+            },
+            "nameWithOwner": "Nuu-maan/ttysvg",
+            "description": "Record your terminal, get one self-contained animated SVG for your README. Works on Windows.",
+            "stargazerCount": 9,
+            "primaryLanguage": {
+              "name": "Rust"
+            },
+            "languages": {
+              "edges": [
+                {
+                  "size": 199402,
+                  "node": {
+                    "name": "Rust",
+                    "color": "#dea584"
+                  }
+                }
+              ]
+            },
+            "licenseInfo": {
+              "spdxId": "MIT",
+              "name": "MIT License"
+            },
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "animated-svg"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "cli"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "pty"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "svg"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "terminal"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "tui"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "windows"
+                  }
+                }
+              ]
+            },
+            "createdAt": "2026-08-02T13:06:13Z",
+            "pushedAt": "2026-08-04T18:36:57Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main",
+              "target": {
+                "committedDate": "2026-08-04T18:27:35Z",
+                "history": {
+                  "totalCount": 82
+                }
+              }
+            },
+            "latestRelease": null
+          }
+        },
+        {
+          "starredAt": "2026-10-26T20:07:38Z",
+          "node": {
+            "databaseId": 1043041666,
+            "owner": {
+              "login": "ronilan"
+            },
+            "nameWithOwner": "ronilan/rusticon",
+            "description": "A mouse driven SVG favicon editor for your terminal, that also works on the web (written in Rust w/ Incredible)",
+            "stargazerCount": 106,
+            "primaryLanguage": {
+              "name": "Rust"
+            },
+            "languages": {
+              "edges": [
+                {
+                  "size": 178930,
+                  "node": {
+                    "name": "Rust",
+                    "color": "#dea584"
+                  }
+                },
+                {
+                  "size": 17719,
+                  "node": {
+                    "name": "CSS",
+                    "color": "#663399"
+                  }
+                },
+                {
+                  "size": 8709,
+                  "node": {
+                    "name": "PowerShell",
+                    "color": "#012456"
+                  }
+                },
+                {
+                  "size": 7868,
+                  "node": {
+                    "name": "HTML",
+                    "color": "#e34c26"
+                  }
+                },
+                {
+                  "size": 5069,
+                  "node": {
+                    "name": "Shell",
+                    "color": "#89e051"
+                  }
+                },
+                {
+                  "size": 1842,
+                  "node": {
+                    "name": "JavaScript",
+                    "color": "#f1e05a"
+                  }
+                },
+                {
+                  "size": 471,
+                  "node": {
+                    "name": "Dockerfile",
+                    "color": "#384d54"
+                  }
+                }
+              ]
+            },
+            "licenseInfo": {
+              "spdxId": "NOASSERTION",
+              "name": "Other"
+            },
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "favicon"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "icon"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "incredible"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "rust"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "svg"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "svg-icons"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "tui"
+                  }
+                }
+              ]
+            },
+            "createdAt": "2025-08-23T03:06:05Z",
+            "pushedAt": "2026-10-23T18:23:50Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main",
+              "target": {
+                "committedDate": "2026-10-23T18:22:59Z",
+                "history": {
+                  "totalCount": 203
+                }
+              }
+            },
+            "latestRelease": {
+              "tagName": "v0.3.0",
+              "publishedAt": "2026-07-11T06:29:11Z"
+            }
+          }
+        },
+        {
+          "starredAt": "2026-10-26T20:06:31Z",
+          "node": {
+            "databaseId": 290971987,
+            "owner": {
+              "login": "MrMarble"
+            },
+            "nameWithOwner": "MrMarble/termsvg",
+            "description": "Record, share and export your terminal as a animated SVG image.",
+            "stargazerCount": 391,
+            "primaryLanguage": {
+              "name": "Go"
+            },
+            "languages": {
+              "edges": [
+                {
+                  "size": 158777,
+                  "node": {
+                    "name": "Go",
+                    "color": "#00ADD8"
+                  }
+                },
+                {
+                  "size": 4610,
+                  "node": {
+                    "name": "Shell",
+                    "color": "#89e051"
+                  }
+                }
+              ]
+            },
+            "licenseInfo": {
+              "spdxId": "GPL-3.0",
+              "name": "GNU General Public License v3.0"
+            },
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "asciinema"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "asciicast"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "svg"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "export"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "converter"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "convert"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "record"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "play"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "hacktoberfest"
+                  }
+                }
+              ]
+            },
+            "createdAt": "2020-08-28T06:45:05Z",
+            "pushedAt": "2026-07-15T21:00:42Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main",
+              "target": {
+                "committedDate": "2026-07-15T20:55:38Z",
+                "history": {
+                  "totalCount": 140
+                }
+              }
+            },
+            "latestRelease": {
+              "tagName": "v0.11.0",
+              "publishedAt": "2026-07-15T21:02:00Z"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "repo": { "forge": "github", "owner": "someone", "name": "tiny" },
+  "spec": "standard",
+  "taken_commit": "abc123def456abc123def456abc123def456abc1",
+  "truncated_by": null,
+  "files": [
+    { "path": "Cargo.lock", "bytes": 200, "text": "lock content\n" },
+    { "path": "README.md", "bytes": 30, "text": "# Tiny\n\nA small repo.\n" },
+    { "path": "assets/logo.png", "bytes": 4096, "text": null },
+    { "path": "docs/big.md", "bytes": 300000, "text": "huge\n" },
+    { "path": "node_modules/left/index.js", "bytes": 10, "text": "x" },
+    { "path": "src/main.rs", "bytes": 20, "text": "fn main() {}\n" }
+  ]
+}

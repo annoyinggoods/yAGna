@@ -1,0 +1,13 @@
+{
+  "repo": { "forge": "github", "owner": "coderamp-labs", "name": "gitingest" },
+  "spec": "standard",
+  "taken_commit": "9f2d1c7e8a5b3f0d6c1e2a4b8d7f0c3e5a1b9d2f",
+  "truncated_by": null,
+  "files": [
+    { "path": "README.md", "bytes": 118, "text": "# Gitingest\n\nTurn any code repository into a simple text digest of its codebase.\n" },
+    { "path": "pyproject.toml", "bytes": 74, "text": "[project]\nname = \"gitingest\"\nversion = \"0.1.0\"\n" },
+    { "path": "src/gitingest/__init__.py", "bytes": 42, "text": "\"\"\"Gitingest: turn a repository into a prompt.\"\"\"\n" },
+    { "path": "src/gitingest/entrypoint.py", "bytes": 96, "text": "def main():\n    \"\"\"Run the ingestion.\"\"\"\n    ingest()\n" },
+    { "path": "src/gitingest/utils/file_utils.py", "bytes": 118, "text": "def read_file(path):\n    \"\"\"Read one file's text.\"\"\"\n    return path.read_text()\n" }
+  ]
+}

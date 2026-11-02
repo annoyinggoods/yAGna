@@ -1,0 +1,24 @@
+Repository: someone/tiny
+Files analyzed: 3
+
+Estimated tokens: ~25
+
+Directory structure:
+├── assets
+│   └── logo.png
+├── src
+│   └── main.rs
+└── README.md
+
+================================================
+FILE: README.md
+================================================
+# Tiny
+
+A small repo.
+
+================================================
+FILE: src/main.rs
+================================================
+fn main() {}
+

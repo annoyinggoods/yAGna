@@ -1,0 +1,26 @@
+Repository: someone/monster
+Files analyzed: 3
+Truncated: the file count cap of 3 files stopped the walk
+
+Estimated tokens: ~12
+
+Directory structure:
+├── a.txt
+├── b.txt
+└── c.txt
+
+================================================
+FILE: a.txt
+================================================
+file a
+
+================================================
+FILE: b.txt
+================================================
+file b
+
+================================================
+FILE: c.txt
+================================================
+file c
+

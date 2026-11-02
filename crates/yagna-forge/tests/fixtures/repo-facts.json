@@ -1,0 +1,24 @@
+{
+  "rateLimit": { "remaining": 4999, "resetAt": "2026-11-01T22:00:00Z" },
+  "repository": {
+    "databaseId": 1320194494,
+    "nameWithOwner": "Nuu-maan/ttysvg",
+    "description": "Record your terminal, get one self-contained animated SVG for your README.",
+    "stargazerCount": 9,
+    "primaryLanguage": { "name": "Rust" },
+    "languages": {
+      "edges": [ { "size": 199402, "node": { "name": "Rust", "color": "#dea584" } } ]
+    },
+    "licenseInfo": { "spdxId": "MIT", "name": "MIT License" },
+    "repositoryTopics": { "nodes": [ { "topic": { "name": "terminal" } } ] },
+    "createdAt": "2026-01-15T10:00:00Z",
+    "isFork": false,
+    "isArchived": false,
+    "defaultBranchRef": {
+      "name": "main",
+      "target": { "committedDate": "2026-10-30T08:30:00Z", "history": { "totalCount": 82 } }
+    },
+    "latestRelease": { "tagName": "v0.11.0", "publishedAt": "2026-10-20T12:00:00Z" },
+    "issues": { "totalCount": 12 }
+  }
+}

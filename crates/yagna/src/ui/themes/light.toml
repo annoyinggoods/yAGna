@@ -1,0 +1,23 @@
+# The light theme: daylight for the same surfaces.
+#
+# The roles come in families and never share a fill: the window
+# ground, the cards, the panels, the status line, the notification
+# card and the tab strip each own their own surfaces.
+background = "#f6f7f9"
+surface = "#ffffff"
+surface_alt = "#e9ecf1"
+text = "#24292f"
+text_muted = "#55606e"
+accent = "#0b62d6"
+border = "#d4dae2"
+health_good = "#1f7a3d"
+health_mid = "#8a6108"
+health_low = "#b3261e"
+language_bar = "#35618f"
+scrim = "#000000"
+notice_bg = "#e8f0fb"
+notice_text = "#1b2733"
+status_info = "#3d5570"
+status_error = "#9c2b2b"
+tab_active = "#e4e9f0"
+tab_inactive = "#ffffff"

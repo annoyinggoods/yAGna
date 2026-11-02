@@ -1,0 +1,11 @@
+{
+  "repo": { "forge": "github", "owner": "someone", "name": "monster" },
+  "spec": "standard",
+  "taken_commit": "f00dcafef00dcafef00dcafef00dcafef00dcafe",
+  "truncated_by": { "kind": "file_count", "limit": 3 },
+  "files": [
+    { "path": "a.txt", "bytes": 6, "text": "file a" },
+    { "path": "b.txt", "bytes": 6, "text": "file b" },
+    { "path": "c.txt", "bytes": 6, "text": "file c" }
+  ]
+}

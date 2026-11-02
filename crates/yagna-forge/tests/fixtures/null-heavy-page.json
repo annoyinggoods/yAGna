@@ -1,0 +1,195 @@
+{
+  "viewer": {
+    "starredRepositories": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "Y3Vyc29yOnYyOpK5MjAyNi0xMC0yNFQxNjozMzowNyswMTowMM4tTjVF"
+      },
+      "edges": [
+        {
+          "starredAt": "2026-10-25T22:08:11Z",
+          "node": {
+            "databaseId": 70459317,
+            "owner": {
+              "login": "BruceDone"
+            },
+            "nameWithOwner": "BruceDone/awesome-crawler",
+            "description": "A collection of awesome web crawler,spider in different languages",
+            "stargazerCount": 7352,
+            "primaryLanguage": null,
+            "languages": {
+              "edges": []
+            },
+            "licenseInfo": {
+              "spdxId": "MIT",
+              "name": "MIT License"
+            },
+            "repositoryTopics": {
+              "nodes": [
+                {
+                  "topic": {
+                    "name": "web-crawler"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "crawler"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "web-scraper"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "spider"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "node-crawler"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "scraper"
+                  }
+                },
+                {
+                  "topic": {
+                    "name": "awesome"
+                  }
+                }
+              ]
+            },
+            "createdAt": "2016-10-10T06:42:00Z",
+            "pushedAt": "2024-06-16T17:03:36Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "master",
+              "target": {
+                "committedDate": "2023-10-27T03:18:58Z",
+                "history": {
+                  "totalCount": 108
+                }
+              }
+            },
+            "latestRelease": null
+          }
+        },
+        {
+          "starredAt": "2026-10-24T21:41:00Z",
+          "node": {
+            "databaseId": 939348745,
+            "owner": {
+              "login": "S3cur3Th1sSh1t"
+            },
+            "nameWithOwner": "S3cur3Th1sSh1t/My-starred-Repositories",
+            "description": "This is my starred repositories including the description for each tool. Makes search/filter over them easier.",
+            "stargazerCount": 75,
+            "primaryLanguage": null,
+            "languages": {
+              "edges": []
+            },
+            "licenseInfo": null,
+            "repositoryTopics": {
+              "nodes": []
+            },
+            "createdAt": "2025-02-26T11:57:34Z",
+            "pushedAt": "2025-02-26T11:57:46Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main",
+              "target": {
+                "committedDate": "2025-02-26T11:57:46Z",
+                "history": {
+                  "totalCount": 2
+                }
+              }
+            },
+            "latestRelease": null
+          }
+        },
+        {
+          "starredAt": "2026-10-24T17:50:18Z",
+          "node": {
+            "databaseId": 1187416406,
+            "owner": {
+              "login": "eddacraft"
+            },
+            "nameWithOwner": "eddacraft/eddacraft-tui",
+            "description": null,
+            "stargazerCount": 3,
+            "primaryLanguage": {
+              "name": "Rust"
+            },
+            "languages": {
+              "edges": [
+                {
+                  "size": 620137,
+                  "node": {
+                    "name": "Rust",
+                    "color": "#dea584"
+                  }
+                }
+              ]
+            },
+            "licenseInfo": {
+              "spdxId": "Apache-2.0",
+              "name": "Apache License 2.0"
+            },
+            "repositoryTopics": {
+              "nodes": []
+            },
+            "createdAt": "2026-03-20T17:44:41Z",
+            "pushedAt": "2026-10-22T11:42:46Z",
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": {
+              "name": "main",
+              "target": {
+                "committedDate": "2026-10-21T17:30:39Z",
+                "history": {
+                  "totalCount": 99
+                }
+              }
+            },
+            "latestRelease": {
+              "tagName": "eddacraft-tui-v0.5.3",
+              "publishedAt": "2026-10-22T11:42:48Z"
+            }
+          }
+        },
+        {
+          "starredAt": "2026-10-26T12:00:00Z",
+          "node": {
+            "databaseId": 900000001,
+            "owner": {
+              "login": "someone"
+            },
+            "nameWithOwner": "someone/empty-shell",
+            "description": null,
+            "stargazerCount": 0,
+            "primaryLanguage": null,
+            "languages": {
+              "edges": []
+            },
+            "licenseInfo": null,
+            "repositoryTopics": {
+              "nodes": []
+            },
+            "createdAt": "2019-03-10T08:00:00Z",
+            "pushedAt": null,
+            "isFork": false,
+            "isArchived": false,
+            "defaultBranchRef": null,
+            "latestRelease": null
+          }
+        }
+      ]
+    }
+  }
+}

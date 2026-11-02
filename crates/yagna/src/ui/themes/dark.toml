@@ -1,0 +1,23 @@
+# The dark theme: the palette yAGna shipped with from Part04.
+#
+# The roles come in families and never share a fill: the window
+# ground, the cards, the panels, the status line, the notification
+# card and the tab strip each own their own surfaces.
+background = "#15171c"
+surface = "#1e2128"
+surface_alt = "#262b36"
+text = "#d8dbe0"
+text_muted = "#949aa6"
+accent = "#5ea1ef"
+border = "#2c313a"
+health_good = "#7ec46a"
+health_mid = "#d8a657"
+health_low = "#e06c75"
+language_bar = "#6a9fe8"
+scrim = "#000000"
+notice_bg = "#1b2735"
+notice_text = "#d6e6f7"
+status_info = "#9fc4e0"
+status_error = "#f0a0a6"
+tab_active = "#2f3542"
+tab_inactive = "#1e2128"

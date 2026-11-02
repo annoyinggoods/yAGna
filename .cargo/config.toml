@@ -1,0 +1,5 @@
+# rustc exhausts its default thread stack while generating code for the
+# pinned UI framework's library on Windows (STATUS_STACK_BUFFER_OVERRUN);
+# this widens the stack for the compiler's threads repo-wide.
+[env]
+RUST_MIN_STACK = "33554432"

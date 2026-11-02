@@ -1,0 +1,8 @@
+# The pinned toolchain. The UI framework moves with its project; this pin
+# is the repository's, and only a deliberate landing changes it. The
+# minimal profile keeps the pin installable: full-profile components are
+# not published for every exact version on every target.
+[toolchain]
+channel = "1.96.0"
+profile = "minimal"
+components = ["rustfmt", "clippy"]
